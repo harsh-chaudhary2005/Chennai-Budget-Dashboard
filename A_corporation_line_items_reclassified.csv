@@ -1,0 +1,715 @@
+expenditure_type,sector,dp_code,account_head,amount_thousand,amount_crore,simplified_sector
+revenue_services,administration,210-10-01-01,SALARIES AND ALLOWANCES-OFFICERS,989331,98.9331,administration
+revenue_services,administration,210-10-01-02,SALARIES AND ALLOWANCES-STAFF,3987247,398.7247,administration
+revenue_services,administration,210-10-02-01,SALARIES AND ALLOWANCES-DRIVERS,781654,78.1654,administration
+revenue_services,environment,210-10-02-02,SALARIES AND ALLOWANCES-CLEANERS,41457,4.1457,environment
+revenue_services,infrastructure,210-10-02-03,SALARIES AND ALLOWANCES-ENGINEERING WORKS,1360707,136.0707,infrastructure
+revenue_services,environment,210-10-02-04,SALARIES AND ALLOWANCES-CONSERVANCY WORKS,3221204,322.1204,environment
+revenue_services,healthcare,210-10-02-05,SALARIES AND ALLOWANCES-HEALTH WORKS,651955,65.1955,healthcare
+revenue_services,administration,210-10-03-01,LEAVE SALARY SURRENDER-OFFICERS,188,0.0188,administration
+revenue_services,administration,210-10-03-02,LEAVE SALARY SURRENDER-STAFF,272,0.0272,administration
+revenue_services,administration,210-10-03-03,LEAVE SALARY SURRENDER-DRIVERS,28,0.0028,administration
+revenue_services,administration,210-10-03-04,LEAVE SALARY SURRENDER-CLEANERS,7,0.0007,administration
+revenue_services,infrastructure,210-10-03-05,LEAVE SALARY SURRENDER-ENGINEERING WORKS,45,0.0045,infrastructure
+revenue_services,environment,210-10-03-06,LEAVE SALARY SURRENDER-CONSERVANCY WORKS,16,0.0016,environment
+revenue_services,healthcare,210-10-03-07,LEAVE SALARY SURRENDER-HEALTH WORKS,104,0.0104,healthcare
+revenue_services,administration,210-10-04-02,EX-GRATIA,25,0.0025,administration
+revenue_services,environment,210-10-06-01,PAYMENT TO CASUAL STAFF-CONSERVANCY WORKERS,1143507,114.3507,environment
+revenue_services,healthcare,210-10-06-02,PAYMENT TO CASUAL STAFF-HEALTH WORKS,571319,57.1319,healthcare
+revenue_services,transport,210-10-06-03,PAYMENT TO CASUAL STAFF-ROAD WORKS,40512,4.0512,transport
+revenue_services,administration,210-10-06-05,PAYMENT TO CASUAL STAFF-OTHERS,19244,1.9244,administration
+revenue_services,administration,210-10-06-06,PAYMENT TO CASUAL STAFF-DRIVER,264,0.0264,administration
+revenue_services,energy,210-10-06-07,PAYMENT TO CASUAL STAFF-ELECTRICAL,5315,0.5315,energy
+revenue_services,public_welfare,210-10-06-08,PAYMENT TO CASUAL STAFF-AMMA UNAVAGAM,417000,41.7,public_welfare
+revenue_services,public_welfare,210-10-06-09,PAYMENT TO CASUAL STAFF-CMBFS,10000,1.0,public_welfare
+revenue_services,administration,210-10-07-00,CONTRIBUTION TO C P S-EMPLOYERS SHARE,500400,50.04,administration
+revenue_services,healthcare,210-20-01-00,REIMBURSEMENT OF MEDICAL EXPENSES,1453,0.1453,healthcare
+revenue_services,administration,210-20-02-00,LEAVE TRAVEL CONCESSION,358,0.0358,administration
+revenue_services,administration,210-20-03-00,OVERTIME ALLOWANCE,33,0.0033,administration
+revenue_services,administration,210-20-04-01,UNIFORM-DRIVER,2222,0.2222,administration
+revenue_services,environment,210-20-04-02,UNIFORM-CLEANER,50,0.005,environment
+revenue_services,administration,210-20-04-03,UNIFORM-OFFICE ASSISTANT,1027,0.1027,administration
+revenue_services,environment,210-20-04-04,UNIFORM-CONSERVANCY WORKS,16776,1.6776,environment
+revenue_services,healthcare,210-20-04-05,UNIFORM-DOCTOR & NURSE,80,0.008,healthcare
+revenue_services,healthcare,210-20-04-06,UNIFORM-NURSE,100,0.01,healthcare
+revenue_services,administration,210-20-04-08,UNIFORM-OFFICER AND STAFF,141,0.0141,administration
+revenue_services,infrastructure,210-20-04-09,UNIFORM-ENGINEERING WORK,3484,0.3484,infrastructure
+revenue_services,healthcare,210-20-04-10,UNIFORM-HEALTH WORK,1497,0.1497,healthcare
+revenue_services,administration,210-20-06-01,TRAINING-OFFICER,1005,0.1005,administration
+revenue_services,administration,210-20-06-02,TRAINING-STAFF,2076,0.2076,administration
+revenue_services,administration,210-20-06-03,TRAINING-OTHER STAFF,4,0.0004,administration
+revenue_services,administration,210-20-07-03,INCENTIVE-OTHER WORKER,8500,0.85,administration
+revenue_services,healthcare,210-20-08-01,HOSPITALISATION BENEFITS-OFFICER,173,0.0173,healthcare
+revenue_services,healthcare,210-20-08-02,HOSPITALISATION BENEFITS-STAFF,280,0.028,healthcare
+revenue_services,healthcare,210-20-08-03,HOSPITALISATION BENEFITS-OTHER STAFF,160,0.016,healthcare
+revenue_services,administration,210-20-10-01,STAFF WELFARE EXPENSES-OFFICER,2786,0.2786,administration
+revenue_services,administration,210-20-10-02,STAFF WELFARE EXPENSES-STAFF,2161,0.2161,administration
+revenue_services,administration,210-20-10-03,STAFF WELFARE EXPENSES-DRIVERS,3956,0.3956,administration
+revenue_services,infrastructure,210-20-10-05,STAFF WELFARE EXPENSES-ENGINEERING WORKS,4169,0.4169,infrastructure
+revenue_services,healthcare,210-20-10-06,STAFF WELFARE EXPENSES-HEALTH WORKS,2794,0.2794,healthcare
+revenue_services,environment,210-20-10-07,STAFF WELFARE EXPENSES-CONSERVANCY WORKS,11271,1.1271,environment
+revenue_services,administration,210-20-10-08,STAFF WELFARE EXPENSES-OTHER STAFF,1670,0.167,administration
+revenue_services,healthcare,210-20-12-00,NEW HEALTH INSURANCE SCHEME-MANAGEMENT CONTRIBUTION,8000,0.8,healthcare
+revenue_services,administration,210-20-14-00,REIMBURSEMENT OF TUTION FEE (IAS OFFICER'S CHILDRENS),243,0.0243,administration
+revenue_services,administration,210-30-01-00,PENSION,3000000,300.0,administration
+revenue_services,administration,210-30-02-00,COMMUTED PENSION,470000,47.0,administration
+revenue_services,administration,210-30-03-00,FAMILY PENSION,1750000,175.0,administration
+revenue_services,administration,210-30-04-01,PENSION CONTRIBUTION TO DEPUTATIONIST-TREASURIES,2000,0.2,administration
+revenue_services,administration,210-30-04-02,PENSION CONTRIBUTION TO DEPUTATIONIST-REVENUE,500,0.05,administration
+revenue_services,administration,210-30-04-04,PENSION CONTRIBUTION TO DEPUTATIONIST-FINANCE,1500,0.15,administration
+revenue_services,administration,210-30-04-05,PENSION CONTRIBUTION TO DEPUTATIONIST-HEALTH,1,0.0001,administration
+revenue_services,administration,210-30-04-07,PENSION CONTRIBUTION TO DEPUTATIONIST-OTHERS,4622,0.4622,administration
+revenue_services,administration,210-40-01-01,LEAVE ENCASHMENT-OFFICERS AND STAFF,300935,30.0935,administration
+revenue_services,administration,210-40-01-02,LEAVE ENCASHMENT-OTHER STAFF,367669,36.7669,administration
+revenue_services,administration,210-40-02-00,DEATH CUM GRATUITY,700000,70.0,administration
+revenue_services,administration,210-40-04-01,LEAVE SALARY CONTRIBUTION TO DEPUTATIONIST-TREASURIES,1000,0.1,administration
+revenue_services,administration,210-40-04-02,LEAVE SALARY CONTRIBUTION TO DEPUTATIONIST-REVENUE,300,0.03,administration
+revenue_services,administration,210-40-04-04,LEAVE SALARY CONTRIBUTION TO DEPUTATIONIST-FINANCE,500,0.05,administration
+revenue_services,administration,210-40-04-05,LEAVE SALARY CONTRIBUTION TO DEPUTATIONIST-HEALTH,2,0.0002,administration
+revenue_services,administration,210-40-04-07,LEAVE SALARY CONTRIBUTION TO DEPUTATIONIST-OTHERS,2221,0.2221,administration
+revenue_services,administration,210-40-05-00,GROUP INSURANCE,50000,5.0,administration
+revenue_services,administration,220-10-01-00,BUILDING AND LAND RENT,154,0.0154,administration
+revenue_services,administration,220-10-02-00,MOTOR VEHICLE TAXES,10000,1.0,administration
+revenue_services,administration,220-10-03-00,OTHER TAXES,21,0.0021,administration
+revenue_services,administration,220-10-04-00,LICENCES,316,0.0316,administration
+revenue_services,energy,220-11-01-08,ELECTRICITY CHARGES-STREET LIGHTS,1500000,150.0,energy
+revenue_services,education,220-11-01-15,ELECTRICITY CHARGES-HIGH AND HIGHER SECONDARY SCHOOL BUILDING,300,0.03,education
+revenue_services,energy,220-11-01-20,ELECTRICITY CHARGES-OTHER THAN STREET LIGHTS,370000,37.0,energy
+revenue_services,energy,220-11-01-21,PAYMENT OF EB CHARGES - ICCC,8500,0.85,energy
+revenue_services,administration,220-11-02-02,WATER CHARGES-ZONAL BUILDINGS,7,0.0007,administration
+revenue_services,administration,220-11-02-07,WATER CHARGES-HIGH AND HIGHER SECONDARY SCHOOL BUILDING,1,0.0001,administration
+revenue_services,administration,220-11-02-08,WATER CHARGES-OTHER BUILDINGS,2501,0.2501,administration
+revenue_services,administration,220-11-03-02,SECURITY EXPENSES-ZONAL BUILDINGS,14624,1.4624,administration
+revenue_services,administration,220-11-03-04,SECURITY EXPENSES-DUMPING YARD,4,0.0004,administration
+revenue_services,administration,220-11-03-05,SECURITY EXPENSES-SUB STATION,14,0.0014,administration
+revenue_services,environment,220-11-03-06,SECURITY EXPENSES-PARKS & GARDENS,1,0.0001,environment
+revenue_services,infrastructure,220-11-03-08,SECURITY EXPENSES-MECHANICAL ENGINEERING BUILDING,20000,2.0,infrastructure
+revenue_services,healthcare,220-11-03-09,SECURITY EXPENSES-HEALTH BUILDING,4719,0.4719,healthcare
+revenue_services,education,220-11-03-12,SECURITY EXPENSES-HIGH AND HIGHER SECONDARY SCHOOL BUILDING,15000,1.5,education
+revenue_services,administration,220-11-03-13,SECURITY EXPENSES-OTHER BUILDING,11422,1.1422,administration
+revenue_services,administration,220-11-03-14,DATA ENTRY CHARGES,67123,6.7123,administration
+revenue_services,public_welfare,220-11-03-15,SECURITY CHARGES - AMMA UNAVAGAM,6710,0.671,public_welfare
+revenue_services,administration,220-12-01-00,TELEPHONE EXPENSES,2650,0.265,administration
+revenue_services,administration,220-12-02-00,INTERNET CHARGES,30003,3.0003,administration
+revenue_services,administration,220-12-03-00,MOBILE CHARGES,8013,0.8013,administration
+revenue_services,administration,220-12-04-00,WIRELESS CHARGES,13000,1.3,administration
+revenue_services,administration,220-12-05-00,CONNECTIVITY CHARGES,1106,0.1106,administration
+revenue_services,administration,220-12-06-00,MAIN SERVER DATA MAINTENANCE CHARGES,100,0.01,administration
+revenue_services,administration,220-20-01-01,LIBRARY BOOKS-CENTRAL LIBRARY,100,0.01,administration
+revenue_services,administration,220-20-01-02,LIBRARY BOOKS-DEPARTMENT LIBRARY,18,0.0018,administration
+revenue_services,administration,220-20-02-01,MAGAZINES & NEWSPAPERS-CENTRAL LIBRARY,200,0.02,administration
+revenue_services,administration,220-20-02-02,MAGAZINES & NEWSPAPERS-DEPARTMENT LIBRARY,1,0.0001,administration
+revenue_services,administration,220-20-02-03,MAGAZINES & NEWSPAPERS-OFFICERS,265,0.0265,administration
+revenue_services,administration,220-20-03-01,JOURNALS & PERIODICALS-CENTRAL LIBRARY,100,0.01,administration
+revenue_services,administration,220-20-03-02,JOURNALS & PERIODICALS-DEPARTMENT LIBRARY,2,0.0002,administration
+revenue_services,administration,220-21-01-01,PRINTING CHARGES-MATERIAL,15000,1.5,administration
+revenue_services,administration,220-21-01-02,PRINTING CHARGES-OUTSIDE PRINTING,20060,2.006,administration
+revenue_services,administration,220-21-01-04,PATTA TRANSFER CHARGES,1,0.0001,administration
+revenue_services,administration,220-21-02-02,COMPUTER STATIONERY-DEPARTMENT PURCHASE,2769,0.2769,administration
+revenue_services,administration,220-21-03-01,STATIONERY-CENTRAL PURCHASE,1,0.0001,administration
+revenue_services,administration,220-21-03-02,STATIONERY-DEPARTMENT PURCHASE,8516,0.8516,administration
+revenue_services,administration,220-21-04-02,COMPUTER CONSUMABLES-DEPARTMENT PURCHASE,36100,3.61,administration
+revenue_services,administration,220-21-05-00,REVENUE STAMP,1,0.0001,administration
+revenue_services,administration,220-22-01-00,POSTAGE,10357,1.0357,administration
+revenue_services,administration,220-22-02-00,COURIER,29,0.0029,administration
+revenue_services,administration,220-22-03-00,FRANKING STAMP,300,0.03,administration
+revenue_services,administration,220-30-01-01,LOCAL CONVEYANCE-OFFICERS & STAFF,679,0.0679,administration
+revenue_services,administration,220-30-03-01,TRAVELING EXPENSES-AIR TRAVEL,4395,0.4395,administration
+revenue_services,administration,220-30-03-02,TRAVELING EXPENSES-TRAIN TRAVEL,558,0.0558,administration
+revenue_services,administration,220-30-03-03,TRAVELING EXPENSES-OTHERS,121,0.0121,administration
+revenue_services,administration,220-40-02-00,INSURANCE - DEPARTMENTAL VEHICLES,30000,3.0,administration
+revenue_services,administration,220-50-00-00,AUDIT FEES,20000,2.0,administration
+revenue_services,administration,220-51-01-01,LEGAL FEES-CORPORATION STANDING COUNSEL,7000,0.7,administration
+revenue_services,administration,220-51-01-02,LEGAL FEES-OTHER STANDING COUNSEL,10001,1.0001,administration
+revenue_services,administration,220-51-02-00,EXPENSES FOR FILING CASES,1000,0.1,administration
+revenue_services,administration,220-51-03-00,ARBITRATION FEES,504,0.0504,administration
+revenue_services,administration,220-51-04-00,RETAINER FEES,3000,0.3,administration
+revenue_services,administration,220-51-05-00,OTHER LEGAL EXPENSES,1001,0.1001,administration
+revenue_services,administration,220-52-03-00,ENGINEER FEES,5051,0.5051,administration
+revenue_services,administration,220-52-04-00,TECHNICAL FEES,1,0.0001,administration
+revenue_services,administration,220-52-05-00,CONSULTANT CHARGES,153014,15.3014,administration
+revenue_services,administration,220-52-06-00,EXPERT COMMITTEE FEES,3,0.0003,administration
+revenue_services,digital_governance,220-53-01-01,E-GOVERNANCE - DESIGN & CONSULTANCY CHARGES-GOVERNMENT AGENCIES,1000,0.1,digital_governance
+revenue_services,digital_governance,220-53-01-02,E-GOVERNANCE - DESIGN & CONSULTANCY CHARGES-VENDORS,150002,15.0002,digital_governance
+revenue_services,administration,220-60-01-01,ADVERTISEMENT CHARGES-REVENUE TENDER,17000,1.7,administration
+revenue_services,administration,220-60-01-02,ADVERTISEMENT CHARGES-CAPITAL TENDER,80000,8.0,administration
+revenue_services,administration,220-60-01-03,ADVERTISEMENT CHARGES-HEALTH,4001,0.4001,administration
+revenue_services,administration,220-60-01-04,ADVERTISEMENT CHARGES-CIVIC,1000,0.1,administration
+revenue_services,administration,220-60-01-05,P.R.O. VISUAL EXPNESES,3000,0.3,administration
+revenue_services,administration,220-60-01-06,P.R.O. MEDIA CENTRE EXPENSES,500,0.05,administration
+revenue_services,administration,220-60-03-00,PUBLICITY CHARGES,1664,0.1664,administration
+revenue_services,administration,220-60-04-00,ORGANIZATION OF FESTIVAL,34,0.0034,administration
+revenue_services,administration,220-61-01-00,HOSPITALITY EXPENSES - WARD COMMITTEE MEETING,2000,0.2,administration
+revenue_services,administration,220-61-02-00,HOSPITALITY EXPENSES - STANDING COMMITTEE MEETING,2000,0.2,administration
+revenue_services,administration,220-61-03-00,HOSPITALITY EXPENSES - COUNCIL MEETING,5000,0.5,administration
+revenue_services,administration,220-61-04-00,HOSPITALITY EXPENSES - DELEGATES,200,0.02,administration
+revenue_services,administration,220-61-05-00,HOSPITALITY EXPENSES - PUBLIC RELATION OFFICE,1000,0.1,administration
+revenue_services,administration,220-61-06-00,HOSPITALITY EXPENSES - OTHER PROGRAMMES,36126,3.6126,administration
+revenue_services,administration,220-61-07-00,HOSPITALITY EXPENSES - AREA SABHA MEETING,40000,4.0,administration
+revenue_services,administration,220-62-01-00,ASSOCIATION MEMBERSHIP,2,0.0002,administration
+revenue_services,administration,220-62-03-00,SUBSCRIPTION TO INSTITUTIONS,323,0.0323,administration
+revenue_services,administration,220-80-01-00,PRIZES AND AWARDS,349,0.0349,administration
+revenue_services,administration,220-80-02-00,SITTING FEE FOR COUNCILORS,15780,1.578,administration
+revenue_services,administration,220-80-02-01,SITTING FEE FOR HOARDINGS COMMITTEE,1,0.0001,administration
+revenue_services,administration,220-80-02-02,HONORARIUM FOR COUNCILLORS,18500,1.85,administration
+revenue_services,administration,220-80-03-00,FAMILY BENEFIT FUND FOR COUNCILORS,1500,0.15,administration
+revenue_services,administration,220-80-04-00,FEES FOR ENQUIRY OFFICERS,1,0.0001,administration
+revenue_services,administration,220-80-05-00,WELFARE EXPENSES - STANDING COMMITTEES,700,0.07,administration
+revenue_services,administration,220-80-06-00,ASSISTANCE TO PUBLIC ON HOSPITLISATION EXPENSES,5,0.0005,administration
+revenue_services,administration,220-80-07-00,INCOME TAX RETURN FILLING CHARGES,3459,0.3459,administration
+revenue_services,administration,220-80-09-00,FOOD SAFETY LICENSE-AMMA UNAVAGAM,1,0.0001,administration
+revenue_services,administration,220-80-09-01,SBM-IEC & PUBLIC AWARENESS,100,0.01,administration
+revenue_services,administration,220-80-09-02,SBM-CAPACITY BUILDING & AOE,100,0.01,administration
+revenue_services,administration,220-80-09-06,HOARDINGS REMOVAL EXPENSES,10000,1.0,administration
+revenue_services,administration,220-80-15-01,CHENNAI CITY PARTNERSHIP (SUSP) EXPENSES,10000,1.0,administration
+revenue_services,education,230-11-01-01,EDUCATION QUALITY IMPROVEMENT-SPECIAL CLASS EXPENSES,48000,4.8,education
+revenue_services,education,230-11-02-02,EDUCATION EXPENSES - OTHERS,200500,20.05,education
+revenue_services,environment,230-15-01-00,PRIVATISATION - CONSERVANCY,6700015,670.0015,environment
+revenue_services,public_welfare,230-15-03-00,PRIVATISATION - SLAUGHTER HOUSE,1000,0.1,public_welfare
+revenue_services,environment,230-15-04-00,PRIVATISATION - PARKS,550000,55.0,environment
+revenue_services,education,230-15-05-00,PRIVATISATION - SCHOOL MAINTENANCE,165500,16.55,education
+revenue_services,environment,230-15-06-00,PRIVATISATION - GASIFIER,88500,8.85,environment
+revenue_services,water_sanitation,230-15-08-00,PRIVATISATION - PUBLIC CONVENIENCE,237500,23.75,water_sanitation
+revenue_services,healthcare,230-15-09-00,PRIVATISATION - HEALTH WORKS,170000,17.0,healthcare
+revenue_services,administration,230-20-03-06,FUEL - VEHICLES,1100000,110.0,administration
+revenue_services,healthcare,230-20-04-01,MEDICINE-MALARIA STORE,1,0.0001,healthcare
+revenue_services,healthcare,230-20-04-02,MEDICINE-HEALTH STORE,80000,8.0,healthcare
+revenue_services,healthcare,230-20-04-04,MEDICINE-DIRECT PURCHASE,6004,0.6004,healthcare
+revenue_services,administration,230-20-05-01,STATIONERY-STATIONERY STORE,8000,0.8,administration
+revenue_services,environment,230-20-06-01,CONSERVANCY MATERIALS-GENERAL STORE,10000,1.0,environment
+revenue_services,environment,230-20-06-03,CONSERVANCY MATERIALS-ZONES,12509,1.2509,environment
+revenue_services,healthcare,230-20-07-00,OTHER MEDICAL & HOSPITAL EXPENSES,6902,0.6902,healthcare
+revenue_services,healthcare,230-20-08-00,DIET TO PATIENTS,10507,1.0507,healthcare
+revenue_services,healthcare,230-20-08-01,HOSTEL FOOD EXPENSES,3500,0.35,healthcare
+revenue_services,public_welfare,230-20-09-00,PURCHASE OF RICE,203,0.0203,public_welfare
+revenue_services,public_welfare,230-20-10-00,PURCHASE OF PROVISIONS,600203,60.0203,public_welfare
+revenue_services,public_welfare,230-20-10-01,PURCHASE OF PROVISIONS (CMBFS),40000,4.0,public_welfare
+revenue_services,public_welfare,230-20-11-00,PURCHASE OF VEGETABLES,180003,18.0003,public_welfare
+revenue_services,public_welfare,230-20-11-01,PURCHASE OF VEGETABLES (CMBFS),12000,1.2,public_welfare
+revenue_services,public_welfare,230-20-12-00,ANIMAL FEEDS,6000,0.6,public_welfare
+revenue_services,energy,230-20-13-01,ELECTRICAL INSTALLATIONS-LAMP POSTS,50000,5.0,energy
+revenue_services,energy,230-20-13-02,ELECTRICAL INSTALLATIONS-CABLES,20000,2.0,energy
+revenue_services,energy,230-20-13-03,ELECTRICAL INSTALLATIONS-LIGHT FITTINGS,50001,5.0001,energy
+revenue_services,energy,230-20-13-05,ELECTRICAL INSTALLATIONS-OTHER FITTINGS,270303,27.0303,energy
+revenue_services,energy,230-20-13-08,MAINTENANCE- ELECTRICAL EQUIPMENTS,30500,3.05,energy
+revenue_services,energy,230-20-13-09,MAINTENANCE- BUILDING (ELECTRICAL),30000,3.0,energy
+revenue_services,administration,230-20-14-02,HEAVY MOTOR VEHICLES-OUTSIDE REPAIR CHARGES,11,0.0011,administration
+revenue_services,administration,230-20-15-02,LIGHT MOTOR VEHICLES-OUTSIDE REPAIR CHARGES,3016,0.3016,administration
+revenue_services,administration,230-20-16-01,MATERIALS-OTHER VEHICLES,80000,8.0,administration
+revenue_services,administration,230-20-16-02,OUTSIDE REPAIR CHARGES,200000,20.0,administration
+revenue_services,healthcare,230-20-19-00,PURCHASE - INSECTICIDES,130000,13.0,healthcare
+revenue_services,social_welfare,230-20-20-00,DE-ADDICTION CENTRE / OLD AGE HOME EXPENSES,501,0.0501,social_welfare
+revenue_services,social_welfare,230-20-21-00,NIGHT SHELTERS (NGO),66000,6.6,social_welfare
+revenue_services,healthcare,230-51-03-02,COMMUNICABLE DISEASE HOSPITAL BUILDING,5000,0.5,healthcare
+revenue_services,public_welfare,230-51-03-05,AMMA UNAVAGAM MAINTENANCE,100501,10.0501,public_welfare
+revenue_services,environment,230-51-03-06,MICRO COMPOST PLANT,170000,17.0,environment
+revenue_services,public_welfare,230-51-03-08,CMBFS EXPENSES,29500,2.95,public_welfare
+revenue_services,healthcare,230-51-03-09,URBAN PRIMARY HEALTH CENTRE (UPHC),47000,4.7,healthcare
+revenue_services,healthcare,230-51-03-10,URBAN COMMUNITY HEALTH CENTRE (UCHC),33300,3.33,healthcare
+revenue_services,healthcare,230-51-03-11,URBAN HEALTH AND WELLNESS CENTRE (UHWC),24501,2.4501,healthcare
+revenue_services,social_welfare,230-51-03-12,SHELTER FOR HOMELESS,22502,2.2502,social_welfare
+revenue_services,education,230-51-04-01,PRIMARY SCHOOL,85000,8.5,education
+revenue_services,education,230-51-04-02,MIDDLE SCHOOL,82500,8.25,education
+revenue_services,education,230-51-04-03,HIGH SCHOOL,60500,6.05,education
+revenue_services,education,230-51-04-04,HIGHER SECONDARY SCHOOL,68000,6.8,education
+revenue_services,education,230-51-04-06,ANGANVADI CENTRES,55000,5.5,education
+revenue_services,administration,230-51-05-01,OFFICE BUILDINGS-RIPON BUILDINGS,20000,2.0,administration
+revenue_services,administration,230-51-05-02,OFFICE BUILDINGS-ZONAL OFFICE BUILDINGS,68000,6.8,administration
+revenue_services,administration,230-51-05-03,OFFICE BUILDINGS-UNIT OFFICE BUILDINGS,35501,3.5501,administration
+revenue_services,administration,230-51-05-04,OFFICE BUILDINGS-WARD OFFICE BUILDINGS,66000,6.6,administration
+revenue_services,water_sanitation,230-51-05-06,AMMA KUDINEER,40501,4.0501,water_sanitation
+revenue_services,urban_development,230-51-06-01,SHOPPING COMPLEXES,20000,2.0,urban_development
+revenue_services,social_welfare,230-51-06-03,COMMUNITY CENTRES,70300,7.03,social_welfare
+revenue_services,water_sanitation,230-51-06-04,PUBLIC CONVENIENCE,171201,17.1201,water_sanitation
+revenue_services,social_welfare,230-51-06-05,DHOBIKHANA,501,0.0501,social_welfare
+revenue_services,public_welfare,230-51-06-06,SLAUGHTER HOUSE,5000,0.5,public_welfare
+revenue_services,urban_development,230-51-06-07,SWIMMING POOL,1,0.0001,urban_development
+revenue_services,transport,230-52-01-00,SUBWAYS,2000,0.2,transport
+revenue_services,infrastructure,230-53-01-00,BRIDGES,25000,2.5,infrastructure
+revenue_services,water_sanitation,230-54-01-00,STORM WATER DRAINS,73000,7.3,water_sanitation
+revenue_services,water_sanitation,230-54-02-00,CULVERTS,1,0.0001,water_sanitation
+revenue_services,water_sanitation,230-54-03-00,STORM WATER DRAINS - DESILTING,336500,33.65,water_sanitation
+revenue_services,administration,230-56-01-00,FURNITURE & FIXTURES,475,0.0475,administration
+revenue_services,administration,230-56-03-00,OFFICE EQUIPMENTS,486,0.0486,administration
+revenue_services,administration,230-57-01-00,PLANT,141,0.0141,administration
+revenue_services,administration,230-57-02-00,MACHINERY,10372,1.0372,administration
+revenue_services,administration,230-57-03-00,EQUIPMENT,742,0.0742,administration
+revenue_services,transport,230-58-01-01,ROADS -CONCRETE,32500,3.25,transport
+revenue_services,transport,230-58-01-02,ROADS -BLACKTOPPED,153000,15.3,transport
+revenue_services,transport,230-58-02-00,PAVEMENTS,43500,4.35,transport
+revenue_services,environment,230-67-01-00,PARKS,57002,5.7002,environment
+revenue_services,environment,230-67-03-00,PLAY FIELDS,45000,4.5,environment
+revenue_services,social_welfare,230-68-01-00,BURIAL GROUND,108500,10.85,social_welfare
+revenue_services,environment,230-69-04-00,HDPE COMMUNITY BINS,7010,0.701,environment
+revenue_services,public_welfare,230-70-01-00,FLOOD RELIEF WORKS - INTERIOR ROADS,15,0.0015,public_welfare
+revenue_services,public_welfare,230-70-02-00,FLOOD RELIEF WORKS - BUS ROUTE ROADS,1,0.0001,public_welfare
+revenue_services,public_welfare,230-70-03-00,FLOOD RELIEF - REPAIR WORKS - SWD,7,0.0007,public_welfare
+revenue_services,public_welfare,230-70-04-01,FLOOD RELIEF - FOOD EXPENSES-CORPORATION,18,0.0018,public_welfare
+revenue_services,public_welfare,230-70-04-02,FLOOD RELIEF - FOOD EXPENSES-PRIVATE,15,0.0015,public_welfare
+revenue_services,public_welfare,230-70-05-00,FLOOD RELIEF - BAILING OF WATER,15,0.0015,public_welfare
+revenue_services,public_welfare,230-70-06-00,FLOOD RELIEF WORKS-HIRE CHARGES,19,0.0019,public_welfare
+revenue_services,public_welfare,230-70-07-00,FLOOD RELIEF WORKS-MEDICAL CAMP AND MEDICINES,15,0.0015,public_welfare
+revenue_services,public_welfare,230-70-08-00,FLOOD RELIEF WORKS-LIGHTING ARRANGEMENTS,16,0.0016,public_welfare
+revenue_services,public_welfare,230-70-09-00,FLOOD RELIEF WORKS-EQUIPMENTS,16,0.0016,public_welfare
+revenue_services,public_welfare,230-70-10-00,FLOOD RELIEF - MANPOWER / OTHERS,17,0.0017,public_welfare
+revenue_services,public_welfare,230-70-11-00,FLOOD RELIEF WORKS-BRIDGE REPAIR WORKS,1,0.0001,public_welfare
+revenue_services,social_welfare,230-80-02-00,GYMNASIUM EXPENSES,1,0.0001,social_welfare
+revenue_services,administration,230-80-03-00,VEHICLE - O & M CHARGES,330000,33.0,administration
+revenue_services,administration,230-80-04-00,HIRE CHARGES,520035,52.0035,administration
+revenue_services,environment,230-80-05-01,"COLLECTION, TRANSPORTATION & PROCESSING CHARGES",500000,50.0,environment
+revenue_services,other,230-80-06-00,OTHER EXPENSES,296271,29.6271,other
+revenue_services,water_sanitation,230-80-09-00,WATERWAYS CLEANING EXPENSES,5000,0.5,water_sanitation
+revenue_services,urban_development,230-80-12-00,SMART CITY MISSION EXPENSES,50002,5.0002,urban_development
+revenue_services,urban_development,230-80-14-00,PEDESTRAIN PLAZA MAINENANCE,3000,0.3,urban_development
+revenue_services,safety_policing,230-80-15-00,NIRBHYA SCHEME WORKS,30000,3.0,safety_policing
+revenue_services,revenue,240-30-04-00,INTEREST ON TNUDF LOAN,14000,1.4,revenue
+revenue_services,revenue,240-30-06-00,INTEREST ON TUFDCO (MIDF) LOAN,136500,13.65,revenue
+revenue_services,revenue,240-30-06-01,Interest on TUFDCO (SRP) Loan,25000,2.5,revenue
+revenue_services,revenue,240-70-00-00,INTEREST ON BANK LOAN,210000,21.0,revenue
+revenue_services,revenue,240-70-00-01,INTEREST ON WORLD BANK LOAN,560000,56.0,revenue
+revenue_services,public_welfare,250-10-01-00,CORPORATION ELECTION,18,0.0018,public_welfare
+revenue_services,public_welfare,250-20-01-00,ANTI MALARIA PROGRAMME,1,0.0001,public_welfare
+revenue_services,public_welfare,250-20-04-00,PREVENTION OF CHOLERA,1,0.0001,public_welfare
+revenue_services,public_welfare,250-20-04-01,PREVENTION OF T.B.,1,0.0001,public_welfare
+revenue_services,public_welfare,250-20-05-00,PARA MEDICAL COURSE FUND (CDH),50,0.005,public_welfare
+revenue_services,public_welfare,250-20-06-00,SCHOOL HEALTH PROGRAMME,20000,2.0,public_welfare
+revenue_services,public_welfare,250-20-07-00,GARDEN IMPROVEMENTS,500,0.05,public_welfare
+revenue_services,public_welfare,250-20-08-00,TREE PLANTING EXPENSES,10000,1.0,public_welfare
+revenue_services,public_welfare,250-20-09-00,SPORTS EXPENSES,35001,3.5001,public_welfare
+revenue_services,public_welfare,250-20-10-00,EXHIBITION EXPENSES,13503,1.3503,public_welfare
+revenue_services,public_welfare,250-30-01-00,FAMILY WELFARE PROGRAMME,12000,1.2,public_welfare
+revenue_services,public_welfare,250-30-01-01,DOCTOR CONSULTATION CHARGES,5000,0.5,public_welfare
+revenue_services,other,271-90-03-00,PAYMENT OF 0.25% TO C.M.D.A.,500,0.05,other
+revenue_services,other,271-90-04-00,COMPENSATION-OTHERS,17,0.0017,other
+revenue_services,other,271-90-05-00,INCENTIVE - PROPERTY OWNERS,200000,20.0,other
+revenue_services,education,SUMMARY,PAYMENT TO ELEMENTARY EDUCATION FUND | page 30 summary,3830645,383.0645,education
+revenue_services,education,SUMMARY,LIBRARY CESS | page 30 summary,600000,60.0,education
+revenue_services,administration,SUMMARY,CONTRIBUTION TO CAPITAL FUND | page 30 summary,3200000,320.0,administration
+revenue_services,urban_development,SUMMARY,CONTRIBUTION TO MAYOR'S SPECIAL DEVELOPMENT FUND | page 30 summary,30000,3.0,urban_development
+capital_goods,transport,412-10-08-09,TURIF (2021-22),2000,0.2,infrastructure
+capital_goods,transport,412-10-08-10,TURIF (2022-23),5000,0.5,infrastructure
+capital_goods,transport,412-10-08-11,TURIF (2023-24),5000,0.5,infrastructure
+capital_goods,water_sanitation,412-10-17-03,SBM 2.0-COMMUNITY TOILETS/URINALS,10000,1.0,infrastructure
+capital_goods,urban_development,412-10-23-00,SINGARA CHENNAI 2.0,20000,2.0,infrastructure
+capital_goods,urban_development,412-10-23-03,NAKARPURA SALAIKAL MEMPATTU THITTAM (2023-24),20000,2.0,infrastructure
+capital_goods,urban_development,412-20-03-00,MAYOR SPECIAL DEVELOPMENT FUND WORKS,2000,0.2,infrastructure
+capital_goods,urban_development,412-20-04-00,COUNCILLOR WARD IMPROVEMENT WORKS,63000,6.3,infrastructure
+capital_goods,education,412-40-04-06,ANGANVADI CENTRES,5000,0.5,infrastructure
+capital_goods,education,412-40-05-12,CMBFS BUILDING,100,0.01,infrastructure
+capital_goods,urban_development,412-40-30-00,MISCELLANEOUS WORKS,12000,1.2,infrastructure
+capital_goods,water_sanitation,412-10-17-03,SBM 2.0-COMMUNITY TOILETS/URINALS,5000,0.5,infrastructure
+capital_goods,urban_development,412-10-23-00,SINGARA CHENNAI 2.0,10000,1.0,infrastructure
+capital_goods,urban_development,412-10-23-03,NAKARPURA SALAIKAL MEMPATTU THITTAM (2023-24),10000,1.0,infrastructure
+capital_goods,urban_development,412-10-23-04,STATE FINANCE COMMISSION (2022-23),10000,1.0,infrastructure
+capital_goods,urban_development,412-10-23-05,STATE FINANCE COMMISSION (2023-24),6000,0.6,infrastructure
+capital_goods,urban_development,412-20-03-00,MAYOR SPECIAL DEVELOPMENT FUND WORKS,2000,0.2,infrastructure
+capital_goods,urban_development,412-20-04-00,COUNCILLOR WARD IMPROVEMENT WORKS,31500,3.15,infrastructure
+capital_goods,transport,412-40-07-02,CONCRETE ROADS,1000,0.1,infrastructure
+capital_goods,transport,412-40-08-02,BLACK TOPPED ROADS,1000,0.1,infrastructure
+capital_goods,urban_development,412-40-30-00,MISCELLANEOUS WORKS,12000,1.2,infrastructure
+capital_goods,transport,412-10-08-11,TURIF (2023-24),38000,3.8,infrastructure
+capital_goods,urban_development,412-10-23-03,NAKARPURA SALAIKAL MEMPATTU THITTAM (2023-24),123600,12.36,infrastructure
+capital_goods,urban_development,412-10-23-04,STATE FINANCE COMMISSION (2022-23),137600,13.76,infrastructure
+capital_goods,urban_development,412-10-23-05,STATE FINANCE COMMISSION (2023-24),130800,13.08,infrastructure
+capital_goods,urban_development,412-20-03-00,MAYOR SPECIAL DEVELOPMENT FUND WORKS,2000,0.2,infrastructure
+capital_goods,urban_development,412-20-04-00,COUNCILLOR WARD IMPROVEMENT WORKS,54000,5.4,infrastructure
+capital_goods,education,412-40-04-06,ANGANVADI CENTRES,1000,0.1,infrastructure
+capital_goods,urban_development,412-40-30-00,MISCELLANEOUS WORKS,10000,1.0,infrastructure
+capital_goods,transport,412-10-08-11,TURIF (2023-24),47900,4.79,infrastructure
+capital_goods,water_sanitation,412-10-17-03,SBM 2.0-COMMUNITY TOILETS/URINALS,1000,0.1,infrastructure
+capital_goods,urban_development,412-10-23-03,NAKARPURA SALAIKAL MEMPATTU THITTAM (2023-24),122000,12.2,infrastructure
+capital_goods,urban_development,412-10-23-05,STATE FINANCE COMMISSION (2023-24),38700,3.87,infrastructure
+capital_goods,urban_development,412-10-24-00,T.N. URBAN EMPLOYMENT SCHEME,10000,1.0,infrastructure
+capital_goods,urban_development,412-20-03-00,MAYOR SPECIAL DEVELOPMENT FUND WORKS,2000,0.2,infrastructure
+capital_goods,urban_development,412-20-04-00,COUNCILLOR WARD IMPROVEMENT WORKS,67500,6.75,infrastructure
+capital_goods,energy,412-40-03-02,COMMUNICABLE DISEASE HOSPITAL BUILDING,5000,0.5,infrastructure
+capital_goods,environment,412-40-06-09,BURIAL GROUND,1200,0.12,infrastructure
+capital_goods,urban_development,412-40-30-00,MISCELLANEOUS WORKS,25000,2.5,infrastructure
+capital_goods,water_sanitation,412-10-17-03,SBM 2.0-COMMUNITY TOILETS/URINALS,5000,0.5,infrastructure
+capital_goods,urban_development,412-10-23-00,SINGARA CHENNAI 2.0,10000,1.0,infrastructure
+capital_goods,urban_development,412-10-23-01,NAKARPURA SALAIKAL MEMPATTU THITTAM (2022-23),25000,2.5,infrastructure
+capital_goods,urban_development,412-20-03-00,MAYOR SPECIAL DEVELOPMENT FUND WORKS,2000,0.2,infrastructure
+capital_goods,urban_development,412-20-04-00,COUNCILLOR WARD IMPROVEMENT WORKS,67500,6.75,infrastructure
+capital_goods,urban_development,412-40-30-00,MISCELLANEOUS WORKS,15000,1.5,infrastructure
+capital_goods,urban_development,412-10-23-03,NAKARPURA SALAIKAL MEMPATTU THITTAM (2023-24),200000,20.0,infrastructure
+capital_goods,urban_development,412-10-24-00,T.N. URBAN EMPLOYMENT SCHEME,4000,0.4,infrastructure
+capital_goods,urban_development,412-20-03-00,MAYOR SPECIAL DEVELOPMENT FUND WORKS,2000,0.2,infrastructure
+capital_goods,urban_development,412-20-04-00,COUNCILLOR WARD IMPROVEMENT WORKS,67500,6.75,infrastructure
+capital_goods,environment,412-40-01-00,PLAY GROUNDS,9800,0.98,infrastructure
+capital_goods,urban_development,412-40-30-00,MISCELLANEOUS WORKS,25000,2.5,infrastructure
+capital_goods,transport,412-10-08-11,TURIF (2023-24),24000,2.4,infrastructure
+capital_goods,urban_development,412-10-23-03,NAKARPURA SALAIKAL MEMPATTU THITTAM (2023-24),290000,29.0,infrastructure
+capital_goods,urban_development,412-10-23-04,STATE FINANCE COMMISSION (2022-23),40000,4.0,infrastructure
+capital_goods,urban_development,412-20-03-00,MAYOR SPECIAL DEVELOPMENT FUND WORKS,2000,0.2,infrastructure
+capital_goods,urban_development,412-20-04-00,COUNCILLOR WARD IMPROVEMENT WORKS,67500,6.75,infrastructure
+capital_goods,urban_development,412-40-03-04,HEALTH POSTS,2000,0.2,infrastructure
+capital_goods,urban_development,412-40-05-04,WARD OFFICE BUILDINGS,5000,0.5,infrastructure
+capital_goods,urban_development,412-40-06-04,PUBLIC CONVENIENCE,1000,0.1,infrastructure
+capital_goods,urban_development,412-40-30-00,MISCELLANEOUS WORKS,10000,1.0,infrastructure
+capital_goods,healthcare,412-10-15-01,URBAN HEALTH WELLNESS CENTRES,2700,0.27,infrastructure
+capital_goods,water_sanitation,412-10-17-03,SBM 2.0-COMMUNITY TOILETS/URINALS,10000,1.0,infrastructure
+capital_goods,urban_development,412-20-03-00,MAYOR SPECIAL DEVELOPMENT FUND WORKS,2000,0.2,infrastructure
+capital_goods,urban_development,412-20-04-00,COUNCILLOR WARD IMPROVEMENT WORKS,67500,6.75,infrastructure
+capital_goods,urban_development,412-40-30-00,MISCELLANEOUS WORKS,15000,1.5,infrastructure
+capital_goods,transport,412-10-08-11,TURIF (2023-24),51500,5.15,infrastructure
+capital_goods,urban_development,412-10-23-03,NAKARPURA SALAIKAL MEMPATTU THITTAM (2023-24),28600,2.86,infrastructure
+capital_goods,urban_development,412-10-23-05,STATE FINANCE COMMISSION (2023-24),24600,2.46,infrastructure
+capital_goods,urban_development,412-20-03-00,MAYOR SPECIAL DEVELOPMENT FUND WORKS,2000,0.2,infrastructure
+capital_goods,urban_development,412-20-04-00,COUNCILLOR WARD IMPROVEMENT WORKS,81000,8.1,infrastructure
+capital_goods,urban_development,412-40-30-00,MISCELLANEOUS WORKS,10000,1.0,infrastructure
+capital_goods,urban_development,412-40-30-04,HUDCO-CSR FUND,3630,0.363,infrastructure
+capital_goods,transport,412-10-08-11,TURIF (2023-24),29800,2.98,infrastructure
+capital_goods,water_sanitation,412-10-17-03,SBM 2.0-COMMUNITY TOILETS/URINALS,20000,2.0,infrastructure
+capital_goods,urban_development,412-20-03-00,MAYOR SPECIAL DEVELOPMENT FUND WORKS,2000,0.2,infrastructure
+capital_goods,urban_development,412-20-04-00,COUNCILLOR WARD IMPROVEMENT WORKS,72000,7.2,infrastructure
+capital_goods,urban_development,412-40-30-00,MISCELLANEOUS WORKS,20000,2.0,infrastructure
+capital_goods,water_sanitation,412-10-17-03,SBM 2.0-COMMUNITY TOILETS/URINALS,2000,0.2,infrastructure
+capital_goods,urban_development,412-10-23-03,NAKARPURA SALAIKAL MEMPATTU THITTAM (2023-24),176300,17.63,infrastructure
+capital_goods,urban_development,412-20-03-00,MAYOR SPECIAL DEVELOPMENT FUND WORKS,2000,0.2,infrastructure
+capital_goods,urban_development,412-20-04-00,COUNCILLOR WARD IMPROVEMENT WORKS,58500,5.85,infrastructure
+capital_goods,transport,412-40-08-02,BLACK TOPPED ROADS,5000,0.5,infrastructure
+capital_goods,urban_development,412-40-30-00,MISCELLANEOUS WORKS,15000,1.5,infrastructure
+capital_goods,transport,412-10-08-11,TURIF (2023-24),32100,3.21,infrastructure
+capital_goods,urban_development,412-10-23-01,NAKARPURA SALAIKAL MEMPATTU THITTAM (2022-23),130000,13.0,infrastructure
+capital_goods,urban_development,412-10-23-04,STATE FINANCE COMMISSION (2022-23),20000,2.0,infrastructure
+capital_goods,urban_development,412-20-03-00,MAYOR SPECIAL DEVELOPMENT FUND WORKS,2000,0.2,infrastructure
+capital_goods,urban_development,412-20-04-00,COUNCILLOR WARD IMPROVEMENT WORKS,54000,5.4,infrastructure
+capital_goods,urban_development,412-40-30-00,MISCELLANEOUS WORKS,10000,1.0,infrastructure
+capital_goods,urban_development,412-10-23-03,NAKARPURA SALAIKAL MEMPATTU THITTAM (2023-24),218800,21.88,infrastructure
+capital_goods,urban_development,412-20-03-00,MAYOR SPECIAL DEVELOPMENT FUND WORKS,2000,0.2,infrastructure
+capital_goods,urban_development,412-20-04-00,COUNCILLOR WARD IMPROVEMENT WORKS,58500,5.85,infrastructure
+capital_goods,urban_development,412-40-30-00,MISCELLANEOUS WORKS,10000,1.0,infrastructure
+capital_goods,transport,412-10-08-11,TURIF (2023-24),19300,1.93,infrastructure
+capital_goods,urban_development,412-10-23-03,NAKARPURA SALAIKAL MEMPATTU THITTAM (2023-24),146000,14.6,infrastructure
+capital_goods,urban_development,412-10-23-05,STATE FINANCE COMMISSION (2023-24),20000,2.0,infrastructure
+capital_goods,urban_development,412-20-03-00,MAYOR SPECIAL DEVELOPMENT FUND WORKS,2000,0.2,infrastructure
+capital_goods,urban_development,412-20-04-00,COUNCILLOR WARD IMPROVEMENT WORKS,49500,4.95,infrastructure
+capital_goods,transport,412-40-08-02,BLACK TOPPED ROADS,3000,0.3,infrastructure
+capital_goods,water_sanitation,412-40-11-00,STORM WATER DRAIN,3000,0.3,infrastructure
+capital_goods,urban_development,412-40-30-00,MISCELLANEOUS WORKS,10000,1.0,infrastructure
+capital_goods,transport,412-10-08-11,TURIF (2023-24),37300,3.73,infrastructure
+capital_goods,water_sanitation,412-10-17-03,SBM 2.0-COMMUNITY TOILETS/URINALS,5000,0.5,infrastructure
+capital_goods,urban_development,412-10-23-03,NAKARPURA SALAIKAL MEMPATTU THITTAM (2023-24),168000,16.8,infrastructure
+capital_goods,urban_development,412-10-23-04,STATE FINANCE COMMISSION (2022-23),76500,7.65,infrastructure
+capital_goods,urban_development,412-10-23-05,STATE FINANCE COMMISSION (2023-24),152000,15.2,infrastructure
+capital_goods,urban_development,412-20-03-00,MAYOR SPECIAL DEVELOPMENT FUND WORKS,2000,0.2,infrastructure
+capital_goods,urban_development,412-20-04-00,COUNCILLOR WARD IMPROVEMENT WORKS,40500,4.05,infrastructure
+capital_goods,urban_development,412-40-06-04,PUBLIC CONVENIENCE,3000,0.3,infrastructure
+capital_goods,urban_development,412-40-06-08,GYM BUILDING,500,0.05,infrastructure
+capital_goods,environment,412-40-06-09,BURIAL GROUND,1000,0.1,infrastructure
+capital_goods,transport,412-40-07-02,CONCRETE ROADS,1000,0.1,infrastructure
+capital_goods,transport,412-40-08-02,BLACK TOPPED ROADS,3000,0.3,infrastructure
+capital_goods,water_sanitation,412-40-11-00,STORM WATER DRAIN,5000,0.5,infrastructure
+capital_goods,urban_development,412-40-30-00,MISCELLANEOUS WORKS,15000,1.5,infrastructure
+capital_goods,infrastructure,412-10-15-00,NUHM-HEALTH DEPARTMENT BUILDINGS,30000,3.0,infrastructure
+capital_goods,infrastructure,412-10-17-03,SBM 2.0-COMMUNITY TOILETS/URINALS,5000,0.5,infrastructure
+capital_goods,infrastructure,412-10-20-00,NULM-NIGHT SHELTERS,20000,2.0,infrastructure
+capital_goods,infrastructure,412-10-23-00,SINGARA CHENNAI 2.0,1300000,130.0,infrastructure
+capital_goods,infrastructure,412-40-03-01,HEALTH DEPARTMENT BUILDINGS,30000,3.0,infrastructure
+capital_goods,infrastructure,412-40-04-01,PRIMARY SCHOOL BUILDINGS,10000,1.0,infrastructure
+capital_goods,infrastructure,412-40-04-02,MIDDLE SCHOOL BUILDINGS,10000,1.0,infrastructure
+capital_goods,infrastructure,412-40-04-03,HIGH SCHOOL BUILDINGS,10000,1.0,infrastructure
+capital_goods,infrastructure,412-40-04-04,HIGHER SECONDARY SCHOOL BUILDINGS,10000,1.0,infrastructure
+capital_goods,infrastructure,412-40-04-05,NNMP SHEDS,2000,0.2,infrastructure
+capital_goods,infrastructure,412-40-05-01,RIPON BUILDINGS,10000,1.0,infrastructure
+capital_goods,infrastructure,412-40-06-03,COMMUNITY CENTRES,10000,1.0,infrastructure
+capital_goods,infrastructure,412-40-30-00,MISCELLANEOUS WORKS,15000,1.5,infrastructure
+capital_goods,transport,412-10-08-11,TURIF (2023-24),500000,50.0,infrastructure
+capital_goods,transport,412-10-23-00,SINGARA CHENNAI 2.0,500000,50.0,infrastructure
+capital_goods,transport,412-10-23-01,NAKARPURA SALAIKAL MEMPATTU THITTAM (2022-23),700000,70.0,infrastructure
+capital_goods,transport,412-10-23-03,NAKARPURA SALAIKAL MEMPATTU THITTAM (2023-24),700000,70.0,infrastructure
+capital_goods,transport,412-10-23-04,STATE FINANCE COMMISSION (2022-23),700000,70.0,infrastructure
+capital_goods,transport,412-10-23-05,STATE FINANCE COMMISSION (2023-24),700000,70.0,infrastructure
+capital_goods,transport,412-40-08-01,BLACK TOPPED-BUS ROUTE ROADS,50000,5.0,infrastructure
+capital_goods,transport,412-40-08-04,TRAFFIC IMPROVEMENTS,40000,4.0,infrastructure
+capital_goods,transport,412-40-08-05,BUS SHELTERS,10000,1.0,infrastructure
+capital_goods,water_sanitation,412-10-14-02,STATE DISASTER MITIGATION FUND,350000,35.0,infrastructure
+capital_goods,water_sanitation,412-10-18-01,AMRUT 2.0.,110000,11.0,infrastructure
+capital_goods,water_sanitation,412-10-19-00,SMART CITY SCHEME,50000,5.0,infrastructure
+capital_goods,water_sanitation,412-10-23-00,SINGARA CHENNAI 2.0,250000,25.0,infrastructure
+capital_goods,water_sanitation,412-40-11-00,STORM WATER DRAIN,200000,20.0,infrastructure
+capital_goods,water_sanitation,412-40-11-02,STORM WATER DRAIN (KfW),6000000,600.0,infrastructure
+capital_goods,water_sanitation,412-40-11-03,STORM WATER DRAIN (ADB),6250000,625.0,infrastructure
+capital_goods,education,410-40-20-00,SCHOOL LABORATORY EQUIPMENTS,10000,1.0,infrastructure
+capital_goods,education,410-60-02-00,COMPUTERS,1000,0.1,infrastructure
+capital_goods,education,410-60-03-00,STABILISERS & UPS,500,0.05,infrastructure
+capital_goods,education,410-60-04-00,PRINTERS,1000,0.1,infrastructure
+capital_goods,education,410-60-06-00,NETWORK EQUIPMENTS,5000,0.5,infrastructure
+capital_goods,education,410-60-08-00,PHOTO COPIER,500,0.05,infrastructure
+capital_goods,education,410-70-01-00,CHAIR,10000,1.0,infrastructure
+capital_goods,education,410-70-02-00,TABLE,10000,1.0,infrastructure
+capital_goods,education,410-80-00-00,OTHER FIXED ASSETS,10000,1.0,infrastructure
+capital_goods,education,410-40-23-08,CMBFS PURCHASE,10000,1.0,infrastructure
+capital_goods,healthcare,410-40-19-00,PUBLIC ANALYST LAB EQUIPMENTS,10000,1.0,infrastructure
+capital_goods,healthcare,410-40-19-01,DIAGNOSTIC LABORATORY EQUIPMENTS,100,0.01,infrastructure
+capital_goods,healthcare,410-60-02-00,COMPUTERS,200,0.02,infrastructure
+capital_goods,healthcare,410-70-01-00,CHAIR,100,0.01,infrastructure
+capital_goods,healthcare,410-70-02-00,TABLE,100,0.01,infrastructure
+capital_goods,healthcare,410-70-03-00,BUREAUS & RACKS,100,0.01,infrastructure
+capital_goods,healthcare,410-80-00-00,OTHER FIXED ASSETS,500,0.05,infrastructure
+capital_goods,healthcare,410-60-09-00,AIR CONDITIONER,100,0.01,infrastructure
+capital_goods,healthcare,410-60-10-00,REFEGIRATOR,100,0.01,infrastructure
+capital_goods,healthcare,410-40-07-01,FOGGING MACHINES-VEHICLE MOUNTED,20000,2.0,infrastructure
+capital_goods,healthcare,410-40-07-02,FOGGING MACHINES-PORTABLE,5000,0.5,infrastructure
+capital_goods,healthcare,410-60-02-00,COMPUTERS,100,0.01,infrastructure
+capital_goods,healthcare,410-60-04-00,PRINTERS,100,0.01,infrastructure
+capital_goods,healthcare,410-80-00-00,OTHER FIXED ASSETS,1000,0.1,infrastructure
+capital_goods,healthcare,410-40-03-00,OPERATION THEATRE EQUIPMENTS,3500,0.35,infrastructure
+capital_goods,healthcare,410-40-15-00,GENERATORS,500,0.05,infrastructure
+capital_goods,healthcare,410-60-09-00,AIR CONDITIONER,200,0.02,infrastructure
+capital_goods,healthcare,410-60-10-00,REFEGIRATOR,200,0.02,infrastructure
+capital_goods,healthcare,410-70-01-00,CHAIR,200,0.02,infrastructure
+capital_goods,healthcare,410-70-02-00,TABLE,200,0.02,infrastructure
+capital_goods,healthcare,410-70-03-00,BUREAUS & RACKS,200,0.02,infrastructure
+capital_goods,healthcare,410-80-00-00,OTHER FIXED ASSETS,500,0.05,infrastructure
+capital_goods,infrastructure,412-10-14-00,CAPITAL GRANT FUND,100000,10.0,infrastructure
+capital_goods,infrastructure,412-10-14-01,INFRASTRUCTURE AND AMENITIES FUND,2300000,230.0,infrastructure
+capital_goods,infrastructure,412-10-16-02,CMCDM (2018-19),30000,3.0,infrastructure
+capital_goods,infrastructure,412-40-09-02,BRIDGES,250000,25.0,infrastructure
+capital_goods,energy,412-10-22-00,NIRBHYA SCHEME,300000,30.0,infrastructure
+capital_goods,energy,412-40-13-01,LAMP POSTS,20000,2.0,infrastructure
+capital_goods,energy,412-40-13-02,CABLES,20000,2.0,infrastructure
+capital_goods,energy,412-40-13-03,LIGHT FITTINGS,20000,2.0,infrastructure
+capital_goods,energy,412-40-13-05,OTHER FITTINGS,20000,2.0,infrastructure
+capital_goods,energy,412-10-19-00,SMART CITY SCHEME,120000,12.0,infrastructure
+capital_goods,infrastructure,410-40-12-00,TREE CUTTING EQUIPMENTS,5000,0.5,infrastructure
+capital_goods,infrastructure,410-40-16-00,PRINTING PRESS EQUIPMENTS,5000,0.5,infrastructure
+capital_goods,infrastructure,410-40-18-00,MECHANICAL WORKSHOP EQUIPMENTS,5000,0.5,infrastructure
+capital_goods,infrastructure,410-40-18-01,MACHINERY AND EQUIPMENTS,5000,0.5,infrastructure
+capital_goods,infrastructure,410-40-23-03,SBM-SWM PROJECT (PURCHASE),350000,35.0,infrastructure
+capital_goods,infrastructure,410-40-23-04,BEACH CLEANING MACHINE,20000,2.0,infrastructure
+capital_goods,infrastructure,410-50-01-00,LORRY,10000,1.0,infrastructure
+capital_goods,infrastructure,410-50-07-00,CAR,5000,0.5,infrastructure
+capital_goods,infrastructure,410-50-08-00,JEEP,5000,0.5,infrastructure
+capital_goods,environment,412-10-23-00,SINGARA CHENNAI 2.0,200000,20.0,infrastructure
+capital_goods,environment,412-40-01-00,PLAY GROUNDS,100000,10.0,infrastructure
+capital_goods,environment,412-40-02-00,PARKS AND GARDENS,100000,10.0,infrastructure
+capital_goods,environment,412-10-17-01,SBM-SWM INFRASTRUCTURE,1000000,100.0,infrastructure
+capital_goods,environment,412-10-17-02,SBM 2.0-SWM INFRASTRUCTURE,1050000,105.0,infrastructure
+capital_goods,environment,412-40-05-08,S.W.M. DEPARTMENT - BUILDINGS,50000,5.0,infrastructure
+capital_goods,urban_development,412-10-14-01,INFRASTRUCTURE AND AMENITIES FUND,900000,90.0,infrastructure
+capital_goods,urban_development,412-10-19-00,SMART CITY SCHEME,80000,8.0,infrastructure
+capital_goods,urban_development,412-10-19-01,SMART CITY SCHEME - CITIIS,270000,27.0,infrastructure
+capital_goods,urban_development,412-10-22-00,NIRBHYA SCHEME,35000,3.5,infrastructure
+capital_goods,urban_development,412-10-23-00,SINGARA CHENNAI 2.0,300000,30.0,infrastructure
+capital_goods,urban_development,412-10-23-02,CHENNAI CITY PARTNERSHIP (World Bank Fund),500000,50.0,infrastructure
+capital_goods,urban_development,412-40-06-04,PUBLIC CONVENIENCE,430000,43.0,infrastructure
+capital_goods,urban_development,412-40-30-00,MISCELLANEOUS WORKS,80000,8.0,infrastructure
+capital_goods,infrastructure,410-40-14-00,DEWATERING PUMPS,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-22-00,PLASTIC SHREDDING MACHINE,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-23-02,AMMA UNAVAGAM EQUIPMENTS,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-01-00,CHAIR,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-02-00,TABLE,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-03-00,BUREAUS & RACKS,100,0.01,infrastructure
+capital_goods,infrastructure,410-80-00-00,OTHER FIXED ASSETS,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-15-00,GENERATORS,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-22-00,PLASTIC SHREDDING MACHINE,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-23-02,AMMA UNAVAGAM EQUIPMENTS,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-23-08,CMBFS PURCHASE,500,0.05,infrastructure
+capital_goods,infrastructure,410-70-01-00,CHAIR,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-02-00,TABLE,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-03-00,BUREAUS & RACKS,100,0.01,infrastructure
+capital_goods,infrastructure,410-80-00-00,OTHER FIXED ASSETS,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-15-00,GENERATORS,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-22-00,PLASTIC SHREDDING MACHINE,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-23-02,AMMA UNAVAGAM EQUIPMENTS,100,0.01,infrastructure
+capital_goods,infrastructure,410-60-09-00,AIR CONDITIONER,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-01-00,CHAIR,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-02-00,TABLE,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-03-00,BUREAUS & RACKS,100,0.01,infrastructure
+capital_goods,infrastructure,410-80-00-00,OTHER FIXED ASSETS,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-22-00,PLASTIC SHREDDING MACHINE,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-23-02,AMMA UNAVAGAM EQUIPMENTS,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-23-08,CMBFS PURCHASE,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-01-00,CHAIR,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-02-00,TABLE,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-03-00,BUREAUS & RACKS,100,0.01,infrastructure
+capital_goods,infrastructure,410-80-00-00,OTHER FIXED ASSETS,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-13-00,GYM EQUIPMENTS,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-22-00,PLASTIC SHREDDING MACHINE,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-23-02,AMMA UNAVAGAM EQUIPMENTS,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-23-08,CMBFS PURCHASE,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-01-00,CHAIR,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-02-00,TABLE,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-03-00,BUREAUS & RACKS,100,0.01,infrastructure
+capital_goods,infrastructure,410-80-00-00,OTHER FIXED ASSETS,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-12-00,TREE CUTTING EQUIPMENTS,200,0.02,infrastructure
+capital_goods,infrastructure,410-40-13-00,GYM EQUIPMENTS,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-22-00,PLASTIC SHREDDING MACHINE,500,0.05,infrastructure
+capital_goods,infrastructure,410-40-23-02,AMMA UNAVAGAM EQUIPMENTS,100,0.01,infrastructure
+capital_goods,infrastructure,410-60-09-00,AIR CONDITIONER,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-01-00,CHAIR,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-02-00,TABLE,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-03-00,BUREAUS & RACKS,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-06-00,ELECTRICAL FITTINGS,100,0.01,infrastructure
+capital_goods,infrastructure,410-80-00-00,OTHER FIXED ASSETS,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-22-00,PLASTIC SHREDDING MACHINE,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-23-02,AMMA UNAVAGAM EQUIPMENTS,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-23-08,CMBFS PURCHASE,500,0.05,infrastructure
+capital_goods,infrastructure,410-70-01-00,CHAIR,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-02-00,TABLE,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-03-00,BUREAUS & RACKS,100,0.01,infrastructure
+capital_goods,infrastructure,410-80-00-00,OTHER FIXED ASSETS,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-22-00,PLASTIC SHREDDING MACHINE,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-23-02,AMMA UNAVAGAM EQUIPMENTS,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-23-08,CMBFS PURCHASE,500,0.05,infrastructure
+capital_goods,infrastructure,410-60-09-00,AIR CONDITIONER,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-01-00,CHAIR,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-02-00,TABLE,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-03-00,BUREAUS & RACKS,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-08-00,INVERTORS,100,0.01,infrastructure
+capital_goods,infrastructure,410-80-00-00,OTHER FIXED ASSETS,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-14-00,DEWATERING PUMPS,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-22-00,PLASTIC SHREDDING MACHINE,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-23-02,AMMA UNAVAGAM EQUIPMENTS,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-01-00,CHAIR,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-02-00,TABLE,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-03-00,BUREAUS & RACKS,100,0.01,infrastructure
+capital_goods,infrastructure,410-80-00-00,OTHER FIXED ASSETS,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-14-00,DEWATERING PUMPS,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-22-00,PLASTIC SHREDDING MACHINE,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-23-02,AMMA UNAVAGAM EQUIPMENTS,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-01-00,CHAIR,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-02-00,TABLE,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-03-00,BUREAUS & RACKS,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-08-00,INVERTORS,100,0.01,infrastructure
+capital_goods,infrastructure,410-80-00-00,OTHER FIXED ASSETS,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-22-00,PLASTIC SHREDDING MACHINE,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-23-02,AMMA UNAVAGAM EQUIPMENTS,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-01-00,CHAIR,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-02-00,TABLE,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-03-00,BUREAUS & RACKS,100,0.01,infrastructure
+capital_goods,infrastructure,410-80-00-00,OTHER FIXED ASSETS,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-22-00,PLASTIC SHREDDING MACHINE,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-23-02,AMMA UNAVAGAM EQUIPMENTS,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-01-00,CHAIR,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-02-00,TABLE,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-03-00,BUREAUS & RACKS,100,0.01,infrastructure
+capital_goods,infrastructure,410-80-00-00,OTHER FIXED ASSETS,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-22-00,PLASTIC SHREDDING MACHINE,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-23-02,AMMA UNAVAGAM EQUIPMENTS,100,0.01,infrastructure
+capital_goods,infrastructure,410-60-09-00,AIR CONDITIONER,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-01-00,CHAIR,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-02-00,TABLE,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-03-00,BUREAUS & RACKS,100,0.01,infrastructure
+capital_goods,infrastructure,410-80-00-00,OTHER FIXED ASSETS,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-14-00,DEWATERING PUMPS,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-15-00,GENERATORS,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-22-00,PLASTIC SHREDDING MACHINE,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-23-02,AMMA UNAVAGAM EQUIPMENTS,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-01-00,CHAIR,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-02-00,TABLE,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-03-00,BUREAUS & RACKS,100,0.01,infrastructure
+capital_goods,infrastructure,410-80-00-00,OTHER FIXED ASSETS,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-14-00,DEWATERING PUMPS,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-15-00,GENERATORS,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-22-00,PLASTIC SHREDDING MACHINE,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-23-02,AMMA UNAVAGAM EQUIPMENTS,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-01-00,CHAIR,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-02-00,TABLE,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-03-00,BUREAUS & RACKS,100,0.01,infrastructure
+capital_goods,infrastructure,410-80-00-00,OTHER FIXED ASSETS,500,0.05,infrastructure
+capital_goods,infrastructure,410-70-01-00,CHAIR,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-02-00,TABLE,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-03-00,BUREAUS & RACKS,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-01-00,CHAIR,1000,0.1,infrastructure
+capital_goods,infrastructure,410-70-02-00,TABLE,1000,0.1,infrastructure
+capital_goods,infrastructure,410-70-03-00,BUREAUS & RACKS,1000,0.1,infrastructure
+capital_goods,infrastructure,410-70-04-00,FIXURES,100,0.01,infrastructure
+capital_goods,infrastructure,410-80-00-00,OTHER FIXED ASSETS,500,0.05,infrastructure
+capital_goods,transport,410-40-10-00,TECHNICAL LABORATORY EQUIPMENTS,100,0.01,infrastructure
+capital_goods,transport,410-60-08-00,PHOTO COPIER,100,0.01,infrastructure
+capital_goods,transport,410-70-01-00,CHAIR,100,0.01,infrastructure
+capital_goods,transport,410-70-02-00,TABLE,100,0.01,infrastructure
+capital_goods,transport,410-70-03-00,BUREAUS & RACKS,100,0.01,infrastructure
+capital_goods,transport,410-80-00-00,OTHER FIXED ASSETS,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-01-00,CHAIR,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-02-00,TABLE,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-03-00,BUREAUS & RACKS,100,0.01,infrastructure
+capital_goods,water_sanitation,410-40-14-00,DEWATERING PUMPS,100,0.01,infrastructure
+capital_goods,water_sanitation,410-60-08-00,PHOTO COPIER,100,0.01,infrastructure
+capital_goods,water_sanitation,410-70-01-00,CHAIR,100,0.01,infrastructure
+capital_goods,water_sanitation,410-70-02-00,TABLE,100,0.01,infrastructure
+capital_goods,water_sanitation,410-70-03-00,BUREAUS & RACKS,100,0.01,infrastructure
+capital_goods,water_sanitation,410-80-00-00,OTHER FIXED ASSETS,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-01-00,CHAIR,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-02-00,TABLE,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-03-00,BUREAUS & RACKS,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-01-00,CHAIR,25,0.0025,infrastructure
+capital_goods,infrastructure,410-70-02-00,TABLE,25,0.0025,infrastructure
+capital_goods,infrastructure,410-70-01-00,CHAIR,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-02-00,TABLE,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-03-00,BUREAUS & RACKS,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-04-00,FIXURES,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-01-00,CHAIR,50,0.005,infrastructure
+capital_goods,infrastructure,410-70-02-00,TABLE,50,0.005,infrastructure
+capital_goods,infrastructure,410-70-03-00,BUREAUS & RACKS,50,0.005,infrastructure
+capital_goods,energy,410-40-09-00,HYDRAULIC LADDERS,500,0.05,infrastructure
+capital_goods,energy,410-40-15-00,GENERATORS,500,0.05,infrastructure
+capital_goods,energy,410-40-23-00,MOBILE HIGHMAST,500,0.05,infrastructure
+capital_goods,energy,410-60-08-00,PHOTO COPIER,5000,0.5,infrastructure
+capital_goods,energy,410-60-09-00,AIR CONDITIONER,2000,0.2,infrastructure
+capital_goods,energy,410-70-01-00,CHAIR,100,0.01,infrastructure
+capital_goods,energy,410-70-02-00,TABLE,100,0.01,infrastructure
+capital_goods,energy,410-70-03-00,BUREAUS & RACKS,100,0.01,infrastructure
+capital_goods,energy,410-70-04-00,FIXURES,100,0.01,infrastructure
+capital_goods,energy,410-70-06-00,ELECTRICAL FITTINGS,100,0.01,infrastructure
+capital_goods,energy,410-80-00-00,OTHER FIXED ASSETS,20000,2.0,infrastructure
+capital_goods,energy,410-60-01-00,SERVER,15000,1.5,infrastructure
+capital_goods,energy,410-60-02-00,COMPUTERS,20000,2.0,infrastructure
+capital_goods,energy,410-60-03-00,STABILISERS & UPS,500,0.05,infrastructure
+capital_goods,energy,410-60-04-00,PRINTERS,2000,0.2,infrastructure
+capital_goods,energy,410-60-05-00,PLOTTERS & SCANNERS,500,0.05,infrastructure
+capital_goods,energy,410-60-06-00,NETWORK EQUIPMENTS,30000,3.0,infrastructure
+capital_goods,energy,410-60-08-00,PHOTO COPIER,500,0.05,infrastructure
+capital_goods,energy,410-60-09-00,AIR CONDITIONER,500,0.05,infrastructure
+capital_goods,energy,410-60-11-00,CELL PHONE,100,0.01,infrastructure
+capital_goods,energy,410-70-01-00,CHAIR,100,0.01,infrastructure
+capital_goods,energy,410-70-02-00,TABLE,100,0.01,infrastructure
+capital_goods,energy,410-70-03-00,BUREAUS & RACKS,100,0.01,infrastructure
+capital_goods,environment,410-40-12-00,TREE CUTTING EQUIPMENTS,500,0.05,infrastructure
+capital_goods,environment,410-70-01-00,CHAIR,100,0.01,infrastructure
+capital_goods,environment,410-70-02-00,TABLE,100,0.01,infrastructure
+capital_goods,environment,410-70-03-00,BUREAUS & RACKS,100,0.01,infrastructure
+capital_goods,environment,410-80-00-00,OTHER FIXED ASSETS,100,0.01,infrastructure
+capital_goods,infrastructure,410-40-23-01,QUALITY CONTROL LABORATORY EQUIPMENTS,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-01-00,CHAIR,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-02-00,TABLE,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-03-00,BUREAUS & RACKS,100,0.01,infrastructure
+capital_goods,infrastructure,410-60-09-00,AIR CONDITIONER,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-01-00,CHAIR,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-02-00,TABLE,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-03-00,BUREAUS & RACKS,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-01-00,CHAIR,50,0.005,infrastructure
+capital_goods,infrastructure,410-70-02-00,TABLE,50,0.005,infrastructure
+capital_goods,infrastructure,410-70-03-00,BUREAUS & RACKS,50,0.005,infrastructure
+capital_goods,urban_development,410-70-01-00,CHAIR,50,0.005,infrastructure
+capital_goods,urban_development,410-70-02-00,TABLE,50,0.005,infrastructure
+capital_goods,urban_development,410-70-03-00,BUREAUS & RACKS,50,0.005,infrastructure
+capital_goods,infrastructure,410-70-01-00,CHAIR,25,0.0025,infrastructure
+capital_goods,infrastructure,410-70-02-00,TABLE,25,0.0025,infrastructure
+capital_goods,infrastructure,410-70-01-00,CHAIR,25,0.0025,infrastructure
+capital_goods,infrastructure,410-70-02-00,TABLE,25,0.0025,infrastructure
+capital_goods,infrastructure,410-70-03-00,BUREAUS & RACKS,25,0.0025,infrastructure
+capital_goods,infrastructure,410-80-00-00,OTHER FIXED ASSETS,25,0.0025,infrastructure
+capital_goods,infrastructure,410-70-01-00,CHAIR,50,0.005,infrastructure
+capital_goods,infrastructure,410-70-02-00,TABLE,50,0.005,infrastructure
+capital_goods,infrastructure,410-70-03-00,BUREAUS & RACKS,50,0.005,infrastructure
+capital_goods,infrastructure,410-70-01-00,CHAIR,50,0.005,infrastructure
+capital_goods,infrastructure,410-70-02-00,TABLE,50,0.005,infrastructure
+capital_goods,infrastructure,410-70-03-00,BUREAUS & RACKS,50,0.005,infrastructure
+capital_goods,infrastructure,410-70-01-00,CHAIR,20,0.002,infrastructure
+capital_goods,infrastructure,410-70-02-00,TABLE,20,0.002,infrastructure
+capital_goods,infrastructure,410-70-03-00,BUREAUS & RACKS,20,0.002,infrastructure
+capital_goods,administration,410-70-01-00,CHAIR,200,0.02,infrastructure
+capital_goods,administration,410-70-02-00,TABLE,100,0.01,infrastructure
+capital_goods,administration,410-70-03-00,BUREAUS & RACKS,100,0.01,infrastructure
+capital_goods,administration,410-80-00-00,OTHER FIXED ASSETS,200,0.02,infrastructure
+capital_goods,infrastructure,410-70-01-00,CHAIR,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-02-00,TABLE,100,0.01,infrastructure
+capital_goods,infrastructure,410-70-03-00,BUREAUS & RACKS,100,0.01,infrastructure
+capital_goods,infrastructure,410-80-00-00,OTHER FIXED ASSETS,500,0.05,infrastructure
+capital_goods,administration,410-70-01-00,CHAIR,100,0.01,infrastructure
+capital_goods,administration,410-70-02-00,TABLE,100,0.01,infrastructure
+capital_goods,administration,410-70-03-00,BUREAUS & RACKS,100,0.01,infrastructure
+capital_goods,administration,410-80-00-00,OTHER FIXED ASSETS,100,0.01,infrastructure

@@ -1,0 +1,64 @@
+level,year,sector,amount_crore,source
+corporation,2024-25,administration,1934.54,Chennai Budget 2024-25 Budget at a Glance.pdf | Full granular parse pp.31-140 | parse_gcc_2024_25_full.py | Rev: salaries (officers/staff/drivers/pension/admin) + p.30 Capital Fund contribution | Cap: admin T&P
+corporation,2024-25,digital_governance,15.1,Chennai Budget 2024-25 Budget at a Glance.pdf | Full granular parse pp.31-140 | parse_gcc_2024_25_full.py | Rev: e-governance design & consultancy (220-53)
+corporation,2024-25,education,527.5,Chennai Budget 2024-25 Budget at a Glance.pdf | Full granular parse pp.31-140 | parse_gcc_2024_25_full.py | Rev: Education Fund 383.06 + Library Cess 60.00 + school O&M 78.03 | Cap: Education dept equip + school buildings 6.41
+corporation,2024-25,energy,293.8,Chennai Budget 2024-25 Budget at a Glance.pdf | Full granular parse pp.31-140 | parse_gcc_2024_25_full.py | Rev: Street lights electricity 150.00 + other EB 37.00 + electrical O&M 46.46 | Cap: Electrical dept 50.00 + Electrical T&P 10.34
+corporation,2024-25,environment,1508.72,"Chennai Budget 2024-25 Budget at a Glance.pdf | Full granular parse pp.31-140 | parse_gcc_2024_25_full.py | Rev: conservancy staff+casual 1,021.76 + privatisation+parks O&M 235.67 | Cap: SWM dept 210.00 + Parks dept 40.00 + T&P env 1.29"
+corporation,2024-25,healthcare,180.5,Chennai Budget 2024-25 Budget at a Glance.pdf | Full granular parse pp.31-140 | parse_gcc_2024_25_full.py | Rev: health staff+casual+O&M 175.93 | Cap: Health dept equip 3.75 + Family Welfare 0.55 + T&P health 0.27
+corporation,2024-25,infrastructure,598.63,Chennai Budget 2024-25 Budget at a Glance.pdf | Full granular parse pp.31-140 | parse_gcc_2024_25_full.py | Rev: engineering staff+O&M 141.34 | Cap: Buildings 146.20 + Bridges 268.00 + Mechanical Engg 41.00 + T&P infra 2.09
+corporation,2024-25,other,49.68,Chennai Budget 2024-25 Budget at a Glance.pdf | Full granular parse pp.31-140 | parse_gcc_2024_25_full.py | Rev: Miscellaneous (271-90) 20.05 + O&M miscellaneous 29.63
+corporation,2024-25,public_welfare,150.44,Chennai Budget 2024-25 Budget at a Glance.pdf | Full granular parse pp.31-140 | parse_gcc_2024_25_full.py | Rev: Amma Unavagam staff+provisions 107.00 + prog. expenses 9.61 + flood relief food 18.83 + etc.
+corporation,2024-25,revenue,94.55,Chennai Budget 2024-25 Budget at a Glance.pdf | Full granular parse pp.31-140 | parse_gcc_2024_25_full.py | Rev: Interest & Finance Charges (240-xx) 94.55
+corporation,2024-25,safety_policing,3.0,Chennai Budget 2024-25 Budget at a Glance.pdf | Full granular parse pp.31-140 | parse_gcc_2024_25_full.py | Rev: Nirbhaya Scheme O&M (230-80-15) 3.00
+corporation,2024-25,social_welfare,26.83,Chennai Budget 2024-25 Budget at a Glance.pdf | Full granular parse pp.31-140 | parse_gcc_2024_25_full.py | Rev: Night shelters 6.60 + burial grounds 10.85 + de-addiction/old-age 0.05 + community centres 7.03 + gymnasium 0.00 + dhobikhana 0.05 + Shelter for homeless 2.25
+corporation,2024-25,transport,447.8,Chennai Budget 2024-25 Budget at a Glance.pdf | Full granular parse pp.31-140 | parse_gcc_2024_25_full.py | Rev: road O&M + casual road workers 27.15 | Cap: Bus Route Roads dept 390.00 + zone road works 30.65
+corporation,2024-25,urban_development,622.58,Chennai Budget 2024-25 Budget at a Glance.pdf | Full granular parse pp.31-140 | parse_gcc_2024_25_full.py | Rev: Mayor's fund 3.00 + smart city 5.00 + misc urban 2.30 | Cap: Special Projects 259.50 + zone ward/SFC/Singara works 352.78 + urban T&P 0.30
+corporation,2024-25,water_sanitation,1414.03,"Chennai Budget 2024-25 Budget at a Glance.pdf | Full granular parse pp.31-140 | parse_gcc_2024_25_full.py | Rev: SWD desilting + public conveniences + drain O&M 86.37 | Cap: Storm Water Drain dept 1,321.00 + zone SWD works + T&P water 0.03"
+state,2024-25,education,54327.0,"PRS India Budget Analysis 2024-25 | TN_State_Budget_Analysis_2024_25_PRS.pdf | Education, Sports, Arts & Culture | +12% over RE 23-24"
+state,2024-25,social_welfare,34548.0,PRS India Budget Analysis 2024-25 | TN_State_Budget_Analysis_2024_25_PRS.pdf | Social Welfare and Nutrition | +14% over RE 23-24
+state,2024-25,public_welfare,24232.0,PRS India Budget Analysis 2024-25 | TN_State_Budget_Analysis_2024_25_PRS.pdf | Agriculture and Allied Activities | +15% over RE 23-24
+state,2024-25,transport,23828.0,"PRS India Budget Analysis 2024-25 | TN_State_Budget_Analysis_2024_25_PRS.pdf | Transport (incl. roads, highways, public transport) | +12%"
+state,2024-25,energy,21606.0,"PRS India Budget Analysis 2024-25 | TN_State_Budget_Analysis_2024_25_PRS.pdf | Energy (TANGEDCO support, power sector) | -11% over RE"
+state,2024-25,healthcare,19730.0,PRS India Budget Analysis 2024-25 | TN_State_Budget_Analysis_2024_25_PRS.pdf | Health and Family Welfare | +5% over RE 23-24
+state,2024-25,social_welfare,12043.0,PRS India Budget Analysis 2024-25 | TN_State_Budget_Analysis_2024_25_PRS.pdf | Rural Development and Panchayat Raj | +25% over RE
+state,2024-25,safety_policing,11965.0,PRS India Budget Analysis 2024-25 | TN_State_Budget_Analysis_2024_25_PRS.pdf | Police and Home Affairs | +11% over RE 23-24
+state,2024-25,water_sanitation,7763.0,PRS India Budget Analysis 2024-25 | TN_State_Budget_Analysis_2024_25_PRS.pdf | Irrigation and Flood Control | +9% over RE 23-24
+state,2024-25,water_sanitation,6993.0,PRS India Budget Analysis 2024-25 | TN_State_Budget_Analysis_2024_25_PRS.pdf | Water Supply and Sanitation | +58% over RE 23-24
+state,2024-25,revenue,62456.0,PRS India Budget Analysis 2024-25 | TN_State_Budget_Analysis_2024_25_PRS.pdf | Interest Payments on State Debt (Finance Dept treasury)
+state,2024-25,administration,42509.0,PRS India Budget Analysis 2024-25 | TN_State_Budget_Analysis_2024_25_PRS.pdf | Pension & Retirement Benefits (Finance Dept treasury)
+state,2024-25,housing,3500.0,TN Budget Speech 2024-25 | Confirmed scheme allocation | Kalaignarin Kanavu Illam (1 lakh houses @ ₹3.5L each)
+state,2024-25,urban_development,8000.0,"TN Budget 2024-25 | Estimated from residual (not in PRS top-10) | Urban roads (₹2,500 cr confirmed) + CMDA + municipality grants"
+state,2024-25,digital_governance,2500.0,TN Budget 2024-25 | Estimated from residual (not in PRS top-10) | ELCOT IT Parks + State IT Dept + e-governance
+state,2024-25,infrastructure,2000.0,TN Budget 2024-25 | Estimated from residual (not in PRS top-10) | Public Works Dept — buildings & capital works
+state,2024-25,environment,2000.0,TN Budget 2024-25 | Estimated from residual (not in PRS top-10) | Environment & Forests Department
+state,2024-25,administration,71004.0,"TN Budget 2024-25 | Estimated from residual (not in PRS top-10) | General Admin, Finance admin, Legislature, Judiciary, Revenue Dept, Commercial Taxes & other depts"
+state,2024-25,other,1500.0,TN Budget 2024-25 | Estimated from residual (not in PRS top-10) | Unclassified / miscellaneous minor heads
+union,2024-25,revenue,1162940.0,Union Budget at a Glance 2024-25.pdf | p.12 | Ministry-wise BE | Interest Payments
+union,2024-25,revenue,203530.0,Union Budget at a Glance 2024-25.pdf | p.12 | Ministry-wise BE | Tax Administration (incl. GST transfers)
+union,2024-25,revenue,86339.0,Union Budget at a Glance 2024-25.pdf | p.12 | Ministry-wise BE | Finance
+union,2024-25,revenue,47559.0,Union Budget at a Glance 2024-25.pdf | p.12 | Ministry-wise BE | Commerce and Industry
+union,2024-25,safety_policing,454773.0,Union Budget at a Glance 2024-25.pdf | p.12 | Ministry-wise BE | Defence
+union,2024-25,safety_policing,150983.0,Union Budget at a Glance 2024-25.pdf | p.12 | Ministry-wise BE | Home Affairs
+union,2024-25,public_welfare,322787.0,Union Budget at a Glance 2024-25.pdf | p.12 | Ministry-wise BE | Transfer to States (Finance Commission)
+union,2024-25,public_welfare,205250.0,Union Budget at a Glance 2024-25.pdf | p.12 | Ministry-wise BE | Food Subsidy
+union,2024-25,public_welfare,164000.0,Union Budget at a Glance 2024-25.pdf | p.12 | Ministry-wise BE | Fertiliser Subsidy
+union,2024-25,public_welfare,151851.0,Union Budget at a Glance 2024-25.pdf | p.12 | Ministry-wise BE | Agriculture and Allied Activities
+union,2024-25,administration,243296.0,Union Budget at a Glance 2024-25.pdf | p.12 | Ministry-wise BE | Pension
+union,2024-25,administration,68660.0,Union Budget at a Glance 2024-25.pdf | p.12 | Ministry-wise BE | Union Territories
+union,2024-25,administration,22155.0,Union Budget at a Glance 2024-25.pdf | p.12 | Ministry-wise BE | External Affairs
+union,2024-25,administration,6291.0,Union Budget at a Glance 2024-25.pdf | p.12 | Ministry-wise BE | Planning and Statistics
+union,2024-25,social_welfare,265808.0,"Union Budget at a Glance 2024-25.pdf | p.12 | Ministry-wise BE | Rural Development (incl. Jal Jeevan, PMAY-G, MGNREGS)"
+union,2024-25,social_welfare,56501.0,Union Budget at a Glance 2024-25.pdf | p.12 | Ministry-wise BE | Social Welfare
+union,2024-25,transport,249159.0,Union Budget at a Glance 2024-25.pdf | p.12 | Ministry-wise BE | Transport — Railways Gross Budgetary Support
+union,2024-25,infrastructure,294969.0,"Union Budget at a Glance 2024-25.pdf | p.12 | Ministry-wise BE | Transport — Roads, Highways & PMGSY (infrastructure split)"
+union,2024-25,education,125638.0,"Union Budget at a Glance 2024-25.pdf | p.12 | Ministry-wise BE | Education (Samagra Shiksha, PM SHRI, higher ed)"
+union,2024-25,digital_governance,116342.0,Union Budget at a Glance 2024-25.pdf | p.12 | Ministry-wise BE | IT and Telecom (MeitY + DoT)
+union,2024-25,digital_governance,32736.0,"Union Budget at a Glance 2024-25.pdf | p.12 | Ministry-wise BE | Scientific Departments (DST, DRDO, Space)"
+union,2024-25,healthcare,89287.0,"Union Budget at a Glance 2024-25.pdf | p.12 | Ministry-wise BE | Health (NHM, AIIMS, family welfare)"
+union,2024-25,urban_development,77127.0,"Union Budget at a Glance 2024-25.pdf | p.12 | Ministry-wise BE | Urban Development (Smart Cities, AMRUT 2.0, UIDSSMT)"
+union,2024-25,urban_development,5900.0,Union Budget at a Glance 2024-25.pdf | p.12 | Ministry-wise BE | Development of North East Region
+union,2024-25,energy,68769.0,"Union Budget at a Glance 2024-25.pdf | p.12 | Ministry-wise BE | Energy (MNRE, power sector)"
+union,2024-25,energy,11925.0,"Union Budget at a Glance 2024-25.pdf | p.12 | Ministry-wise BE | Petroleum Subsidy (LPG, kerosene)"
+union,2024-25,housing,5450.0,"Union Budget at a Glance 2024-25.pdf | p.12 | Ministry-wise BE | Housing (PMAY-Urban, split from Urban Dev)"
+union,2024-25,environment,3346.0,Union Budget at a Glance 2024-25.pdf | p.12 | Ministry-wise BE | Environment & Forests (split from Others)
+union,2024-25,other,127141.0,"Union Budget at a Glance 2024-25.pdf | p.12 | Ministry-wise BE | Others (net of -13,990 reserve fund adjustment; excl. environment)"
