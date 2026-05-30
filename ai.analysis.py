@@ -2,7 +2,7 @@ from google import genai
 import pandas as pd
 
 
-client = genai.Client(api_key="AQ.Ab8RN6ID7jLsc2NUpoN0pBPcuzGUXMdcj1xhDH65b2gbhzgQDg")
+client = genai.Client(api_key="My API(can't show here)")
 
 
 df = pd.read_csv("A_corporation_line_items_reclassified.csv")
